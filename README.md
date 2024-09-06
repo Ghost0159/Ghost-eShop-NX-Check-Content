@@ -12,13 +12,15 @@ My Config :
 - AMS 1.7.1
 - Region E
 
+________________________________
 
+# Reported Content
 
 | name                                     |  fixed | error  ​|
 |------------------------------------------|--------|--------|
 | #BLUD [010060201E0A4000][v0]             |   ❌​  |  Invalid PFSO Magic! ​  |
 | #BLUD [010060201E0A4800][v196608]        |   ❌​  |  Invalid PFSO Magic! ​  |
-|         |   ​  |   ​  |
+|    Bakeru[v0]                             |  ✅ ​  |   ​  |
 |         |   ​  |   ​  |
 |         |   ​  |   ​  |
 |         |   ​  |   ​  |
