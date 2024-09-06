@@ -3,3 +3,11 @@ A repository containing screenshots and other content to check that everything i
 
 
 **All Content are tested in NX Public Shop**
+
+
+My Config :
+- Switch v1
+- Tinfoil 18.0
+- Firmware 18.1.0
+- AMS 1.7.1
+- Region E
