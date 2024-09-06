@@ -21,7 +21,7 @@ ________________________________
 | #BLUD [010060201E0A4000][v0]             |   ❌  |  Invalid PFSO Magic! ​  |
 | #BLUD [010060201E0A4800][v196608]        |   ❌​  |  Invalid PFSO Magic! ​  |
 |    Bakeru [v0]                             |  don't have problem = not required to fix it ​  |   ​  |
-|     Trails through daybreak [DLC]    |   ❌  |  Corrupted block detected​  |
+|     Trails through daybreak [DLC]    |   ❌  |  Corrupted block detected​ for base  |
 |     Shin megami tensei V vengeance  [BASE+DLC]  | need check  ​  |  Downloads but won't start ​  |
 |    Eiyuden chronicles  [BASE]   |   need check​​ ​  |   ​Downloads but won't start  |
 |    Ìmmortal fenyx rising    [DLCs & UPD] |  need check  ​  |   doesn't download​  |
